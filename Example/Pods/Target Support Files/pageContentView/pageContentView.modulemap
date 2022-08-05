@@ -1,0 +1,6 @@
+framework module pageContentView {
+  umbrella header "pageContentView-umbrella.h"
+
+  export *
+  module * { export * }
+}

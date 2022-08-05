@@ -1,0 +1,16 @@
+PODS:
+  - pageContentView (0.1.0)
+
+DEPENDENCIES:
+  - pageContentView (from `../`)
+
+EXTERNAL SOURCES:
+  pageContentView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pageContentView: ad41520cc8e96151c45e86e25256fdef0ebe6e39
+
+PODFILE CHECKSUM: 28c6e76fceacad408219eb7b46559865e020aa67
+
+COCOAPODS: 1.10.1

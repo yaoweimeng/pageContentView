@@ -1,0 +1,22 @@
+{
+  "name": "pageContentView",
+  "version": "0.1.0",
+  "summary": "支持页面做有切换滑动",
+  "description": "TODO: 类似于新闻App首页左右滑动",
+  "homepage": "https://github.com/yaoweimeng225@163.com/pageContentView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaoweimeng225@163.com": "“yaoweimeng225@163.com”"
+  },
+  "source": {
+    "git": "https://github.com/yaoweimeng225@163.com/pageContentView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "pageContentView/Classes/**/*"
+}
