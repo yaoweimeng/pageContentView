@@ -18,7 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)TYTContentViewWillBeginDragging:(YWMPageContentView *)contentView;
 /**
  TYTPageContentView滑动调用
- @param contentView FSPageContentView
+ @param contentView TYTPageContentView
  @param startIndex 开始滑动页面索引
  @param endIndex 结束滑动页面索引
  @param progress 滑动进度
@@ -26,8 +26,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)TYTContentViewDidScroll:(YWMPageContentView *)contentView startIndex:(NSInteger)startIndex endIndex:(NSInteger)endIndex progress:(CGFloat)progress;
 
 /**
- FSPageContentView结束滑动
- @param contentView FSPageContentView
+ TYTPageContentView结束滑动
+ @param contentView TYTPageContentView
  @param startIndex 开始滑动索引
  @param endIndex 结束滑动索引
  */
@@ -35,7 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  scrollViewDidEndDragging
- @param contentView FSPageContentView
+ @param contentView TYTPageContentView
  */
 - (void)TYTContenViewDidEndDragging:(YWMPageContentView *)contentView;
 
